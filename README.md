@@ -59,7 +59,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><strong>Features:</strong><br>- Silverlight 5 In and Out of Browser Client<br>- Multi Public/Private Rooms<br>- One to All Real-Time Voice Broadcasting<br>- One to One Real-Time Voice/Video Calling System<br>- One to One and One to All Text/Drawing Chatting System<br>- Unlimited Talkers on each room to unlimited listeners<br>- Video/Voice Quality Controller<br>- Can be hosted on Dedicated/Virtual Windows Server and on Azure Virtual Machine<br>- Unlimited Support Period to download the last versions and updates</p>
+<p><strong>Features:</strong><br>- Silverlight 5 In and Out of Browser Client<br>- Multi Public/Private Rooms<br>- One to All Real-Time Voice Broadcasting<br>- One to One Real-Time Voice/Video Calling System<br>- One to One and One to All Text/Drawing Chatting System<br>- Unlimited Talkers on each room to unlimited listeners<br>- Video/Voice Quality Controller<br>- Can be hosted on Dedicated/Virtual Windows Server and on Azure Virtual Machine<br></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
