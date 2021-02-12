@@ -19,7 +19,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p><strong>Features:</strong><br>- Silverlight 5 In and Out of Browser Client<br>- Multi Public/Private Conferencing Rooms<br>- Public/Private Real-Time Video/Voice Conferencing<br>- Public/Private Text/Drawing Chatting<br>- Desktop Sharing Presenter tool<br>- Real-Time Collaborative Drawing Board<br>- Meeting Recorder With Audio Tool to Record the meeting locally<br>- Files Sharing System<br>- Video/Voice Quality Controller</p>
+<p><strong>Features:</strong><br>- Silverlight 5 In and Out of Browser Client<br>- Multi Public/Private Conferencing Rooms<br>- Public/Private Real-Time Video/Voice Conferencing<br>- Public/Private Text/Drawing Chatting<br>- Desktop Sharing Presenter tool<br>- Real-Time Collaborative Drawing Board<br>- Files Sharing System<br>- Video/Voice Quality Controller</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator -->
