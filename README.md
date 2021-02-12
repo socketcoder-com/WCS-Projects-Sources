@@ -15,7 +15,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":450} -->
-<figure class="wp-block-image"><img src="http://www.socketcoder.com/wp-content/uploads/2014/04/WCS-Pro4.png" alt="" class="wp-image-450"/></figure>
+<figure class="wp-block-image"><img src="https://camo.githubusercontent.com/0383446db7814b621edfa15c07359013d7d5a1598a961eae965b2215eddaab64/687474703a2f2f7777772e736f636b6574636f6465722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30342f5743532d50726f342e706e67" alt="" class="wp-image-450"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -35,7 +35,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":463} -->
-<figure class="wp-block-image"><img src="http://www.socketcoder.com/wp-content/uploads/2014/04/WCS-ProPlus41.png" alt="" class="wp-image-463"/></figure>
+<figure class="wp-block-image"><img src="https://camo.githubusercontent.com/4d819c4b717262487e7c4d2896e13dba2de0e971ae6706a739ea6568e2be672d/687474703a2f2f7777772e736f636b6574636f6465722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30342f5743532d50726f506c757334312e706e67" alt="" class="wp-image-463"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -55,7 +55,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":454} -->
-<figure class="wp-block-image"><img src="http://www.socketcoder.com/wp-content/uploads/2014/04/WMS4.png" alt="" class="wp-image-454"/></figure>
+<figure class="wp-block-image"><img src="https://camo.githubusercontent.com/6e35a8e9d3ee294f80c4414ab1ce03c58f201410706e31bac124beddc2533689/687474703a2f2f7777772e736f636b6574636f6465722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30342f574d53342e706e67" alt="" class="wp-image-454"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
